@@ -1,4 +1,4 @@
-![Banner](https://github.com/aima98/aima98/assets/dcky26h-5ea8b3bf-086d-4ceb-9107-f232b96870d2)
+![Banner](https://github.com/aima98/aima98/blob/main/assets/dcky26h-5ea8b3bf-086d-4ceb-9107-f232b96870d2.gif)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=+Hello+%F0%9F%98%80;I'm+Aima+Nejjari......;I+am+a+Software+Developer;Nice+to+meet+you+!%F0%9F%91%8B)](https://git.io/typing-svg)
