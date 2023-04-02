@@ -7,9 +7,7 @@
 
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedbacks, because it helps me become a better person and a better programmer.:orange_heart:
--  I am interested in web developement and can pick up skills quickly. I am also willing to dive deep into learning the more skills if the job provides the space to learn and grow.
-- [Link to PortFolio :smiley: ](https://aima98.github.io/Portfolio-setup-and-mobile-first/))
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aima98&label=Profile%20views&color=0e75b6&style=flat" alt="aima98" /> </p>
+-  I am interested in web developement and can pick up skills quickly. I am also willing to dive deep into learning the more skills if the job provides the space to learn and grow. :smiley:
 
 <h3 align="left">A Full-stack Developer, and a <a href="https://www.microverse.org/?grsf=n05ptr">Microverse</a> student 📖.</h3>
 
